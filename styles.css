@@ -1,0 +1,33 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+    margin: 0 auto;
+    font-size: 1.15em;
+}
+
+main{
+    padding: 2%;
+    background-color: forestgreen
+}
+
+.center{
+    text-align: center;
+}
+
+html{
+    background-color: black;
+    color: white;
+}
+
+figure{
+    margin: 0%;
+    padding: 0%;
+}
+
+section{
+    padding-bottom: 3%;
+}
+
+#author{
+    color: lightgray;
+}
